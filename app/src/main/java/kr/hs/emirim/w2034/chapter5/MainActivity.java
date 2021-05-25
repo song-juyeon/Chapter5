@@ -44,6 +44,7 @@ public class MainActivity extends AppCompatActivity {
                 case R.id.btn_snail:
                     linearSnail.setVisibility(View.VISIBLE);
                     break;
+
             }
         }
     };
